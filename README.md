@@ -1,15 +1,18 @@
-🚀 The bridge - 📚 SQL Employees exercise
+![logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png "logotipo de The Bridge")
 
-📝 Descripción del Ejercicio
+# 🚀 The bridge - 📚 SQL Movies exercise
+
+## 📝 Descripción del Ejercicio
 En este ejercicio, aprenderás a utilizar los comandos básicos de SQL para obtener información de una base entre dos tablas de datos de empleados.
 
-📖 Instrucciones
-🍴 Fork del repositorio.
-📥 Clona el repositorio del ejercicio.
-🎯 Crea un fichero queries.sql donde escribirás las consultas SQL.
-✅ Asegúrate de probar las queries en tu gestor de bases de datos.
-📤 Haz commit de tus cambios y sube tu rama a tu fork.
-📧 Abre un Pull Request para que revisemos tu código.
+## 📖 Instrucciones
+
+1. 🍴 Fork del repositorio.
+2. 📥 Clona el repositorio del ejercicio.
+3. 🎯 Crea un fichero `queries.sql` donde escribirás las consultas SQL.
+4. ✅ Asegúrate de probar las queries en tu gestor de bases de datos.
+5. 📤 Haz commit de tus cambios y sube tu rama a tu fork.
+6. 📧 Abre un Pull Request para que revisemos tu código.
 
 ⬇️ Descargar CSV luego importar en DBEAVER
 Los dos archivos son `employees.csv` y `departments.csv`
