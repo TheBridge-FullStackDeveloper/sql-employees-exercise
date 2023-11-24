@@ -1,14 +1,14 @@
 --2
-select e."FirstName" , e."LastName", d."DepartmentName" 
-from employees e 
-inner join departments d 
-on d."DepartmentID" = e."DepartmentID" 
+SELECT e."FirstName" , e."LastName", d."DepartmentName" 
+FROM employees e 
+INNER JOIN departments d 
+ON d."DepartmentID" = e."DepartmentID" 
 
 --3
-select e."FirstName" , e."LastName", d."DepartmentName" 
-from employees e 
-inner join departments d 
-on d."DepartmentID" = e."DepartmentID" 
+SELECT e."FirstName" , e."LastName", d."DepartmentName" 
+FROM employees e 
+INNER JOIN departments d 
+ON d."DepartmentID" = e."DepartmentID" 
 
 --4
 SELECT d."DepartmentName", e."FirstName", e."LastName"
@@ -21,11 +21,11 @@ FROM employees e
 FULL JOIN departments d ON e."DepartmentID" = d."DepartmentID";
 
 --6
-select e."FirstName" , e."LastName", d."DepartmentName" 
-from employees e 
-left join departments d 
-on d."DepartmentID" = e."DepartmentID" 
-where d."DepartmentName" is null
+SELECT e."FirstName" , e."LastName", d."DepartmentName" 
+FROM employees e 
+LEFT JOIN departments d 
+ON d."DepartmentID" = e."DepartmentID" 
+WHERE d."DepartmentName" IS NULL
 
 
 --7
