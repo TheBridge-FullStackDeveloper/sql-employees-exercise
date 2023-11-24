@@ -1,6 +1,6 @@
 ![logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png "logotipo de The Bridge")
 
-# 🚀 The bridge - 🎥 SQL Movies exercise
+# 🚀 The bridge - 💼 SQL Employees exercise
 
 ## 📝 Descripción del Ejercicio
 En este ejercicio, aprenderás a utilizar los comandos básicos de SQL para obtener información de una base entre dos tablas de datos de empleados.
